@@ -1,18 +1,20 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
 ### Overview
-Include overview here
+
 ### Features
-Include Features here
+List Groceries-
+This will give the user the ability to see which items are on their current grocery list. It will use data the user put in stores in the database
+
+Search Groceries- 
+ This will give the user the ability to search for on their current grocery list. It will use data the user put in stores in the database   
+
+Log in -
+This will let each user have seperate grocery list. The user information will be stored in the database.
+
+Meal Prep -
+Gives user the option to create meal prep lists to better prep for grocery list. Data will be stored in the db, and the user will put in that data. 
 ### Technologies
-Include Technologies here
+Java - Mysql
 ### What I'll Have to Learn
-Include what you will need to learn here
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/lKqCZRIi/kale-yeah
